@@ -1,0 +1,14 @@
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\bin\Release\Data\Messages.mdb
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\bin\Release\MessageGeneratorApp.exe.config
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\bin\Release\MessageGeneratorApp.exe
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\bin\Release\MessageGeneratorApp.pdb
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\bin\Release\Interop.ADODB.dll
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\bin\Release\Interop.ADOX.dll
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\Interop.ADODB.dll
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\Interop.ADOX.dll
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\MessageGeneratorApp.csproj.ResolveComReference.cache
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\MessageGeneratorApp.MainForm.resources
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\MessageGeneratorApp.Properties.Resources.resources
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\MessageGeneratorApp.csproj.GenerateResource.Cache
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\MessageGeneratorApp.exe
+D:\Saulius\Source\NET\MessageGeneratorApp\MessageGeneratorApp\obj\Release\MessageGeneratorApp.pdb
